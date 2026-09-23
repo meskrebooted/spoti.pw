@@ -1,4 +1,4 @@
-https://github.com/meskrebooted/spoti.pw/actions/runs/35707190882/artifacts/10685176301
+https://filebin.net/spotifyglass-35828557722/spoti.pw-0.21.1.ipa
 <p align="center">
   <img src="docs/icon.png" width="96" alt="">
 </p>
